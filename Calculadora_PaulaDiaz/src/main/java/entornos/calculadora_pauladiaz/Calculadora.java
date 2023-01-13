@@ -46,7 +46,7 @@ public class Calculadora {
                         System.out.println(numero1 + " / " + numero2 + " = " + (numero1 / numero2));
                     }
                     case 0 -> System.out.println("Saliendo...");
-                    default -> System.out.println("Opción no disponible");
+                    default -> System.out.println("Opción no disponible ");
                 }
 
                 System.out.println("\n");
